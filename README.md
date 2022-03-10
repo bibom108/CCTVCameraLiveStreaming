@@ -1,6 +1,6 @@
 # CCTV Camera Live Streaming
 Các bước giải quyết bài toán:
-1. Lưu frames thành các chunks nhỏ, sau đó ghép lại thành video với codec **MPEG**.
+1. Lưu frames thành các chunks nhỏ, sau đó ghép lại thành video với codec **HLS**.
 2. Hiển thị video live trên website.
   
 Chi tiết các bước được trình bày bên dưới.
